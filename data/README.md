@@ -1,1 +1,1 @@
-Data sets can be accessed via https://zenodo.org/uploads/11388020
+Data sets can be accessed via https://doi.org/10.5281/zenodo.11388020
