@@ -10,7 +10,7 @@ This repository is created to support the manuscript mentioned above. Any usage 
 
 # Structure
 
-- `data`: The SINDBAD simulation results, which can be accessed via [https:zenodo](https://zenodo.org/uploads/11388020).
+- `data`: The SINDBAD simulation results, which can be accessed via [https:zenodo](https://doi.org/10.5281/zenodo.11388020).
 - `script`: scripts to perform the analyses and create figures.
     - `scripts_vegpp_eval`: scripts to process data sets and create figures in the main text
     - `scripts_vegpp_eval_withFireC`: scripts to process data sets and create figures in Appendix B
